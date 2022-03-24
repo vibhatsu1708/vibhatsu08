@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="400" /></a>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=codeSTACKr" width="400">
