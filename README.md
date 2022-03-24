@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="200" /></a>
