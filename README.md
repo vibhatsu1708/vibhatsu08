@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="700">
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks" width="800">
