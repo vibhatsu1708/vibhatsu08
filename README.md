@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
 </br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vibhatsu08&repo=optical-character-recognition)](https://github.com/vibhatsu08/optical-character-recognition)
-</br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vibhatsu08&repo=todo-list
-)](https://github.com/vibhatsu08/todo-list
-)
-</br>
+![Snake animation](https://github.com/vibhatsu08/github-readme/blob/output/github-contribution-snake.svg)
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="900" border="none">
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=765CEC" alt="github-streaks" width="900">
