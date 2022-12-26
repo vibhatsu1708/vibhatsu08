@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="900"/>
 </br>
+![Snake animation](https://github.com/vibhatsu08/github-readme/blob/output/github-contribution-snake.svg)
