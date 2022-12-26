@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vibhatsu08/vibhatsu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,8 @@ Here are some ideas to get you started:
 <h2>🔥 Profile views count! </h2>
 </br>
 <img src="https://profile-counter.glitch.me/{vibhatsu08}/count.svg" alt="vibhatsu08 :: Visitor's Count" />
+</br>
+<h2>👨🏻‍💻 GitHub statistics!</h2>
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="900" border="none">
 </br>
