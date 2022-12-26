@@ -1,7 +1,7 @@
-👋🏻 Hey there! I'm Vedant, a front end developer with a love for cybersecurity, machine learning, and artificial intelligence.
-👨🏻‍💻 My skillset includes HTML, CSS, and JavaScript, and I'm always striving to build intuitive and visually appealing user interfaces.
-⚡️ In my free time, I enjoy staying up-to-date on the latest trends and techniques in cybersecurity and machine learning.
-🧐 I'm always looking for new opportunities to learn and grow as a developer, whether it's through working on a new web application or tackling a challenging security problem.
+👋🏻 Hey there! I'm Vedant, a front end developer with a love for cybersecurity, machine learning, and artificial intelligence. </br>
+👨🏻‍💻 My skillset includes HTML, CSS, and JavaScript, and I'm always striving to build intuitive and visually appealing user interfaces. </br>
+⚡️ In my free time, I enjoy staying up-to-date on the latest trends and techniques in cybersecurity and machine learning. </br>
+🧐 I'm always looking for new opportunities to learn and grow as a developer, whether it's through working on a new web application or tackling a challenging security problem. </br>
 <!--
 **vibhatsu08/vibhatsu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
