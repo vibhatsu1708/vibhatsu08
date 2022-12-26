@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 </br>
 <h2>👨🏻‍💻 Leetcode statistics!</h2>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vedant1708)](https://github.com/vibhatsu08/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
