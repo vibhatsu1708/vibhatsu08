@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="800"/></a>
-<br>
+</br>
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="900" border="none">
-<br>
+</br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=765CEC" alt="github-streaks" width="900">
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
