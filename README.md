@@ -1,4 +1,4 @@
-👋🏻 Hey there!
+👋🏻 Hello there! My name is Vedant Mistry, and I am a front end developer with a keen interest in cybersecurity, machine learning, and artificial intelligence. With a strong foundation in HTML, CSS, and JavaScript, I have a passion for building intuitive and visually appealing user interfaces. In my free time, I enjoy exploring the latest trends and techniques in cybersecurity and machine learning to continuously improve my skills and stay up-to-date in the fast-paced world of technology. Whether it's developing a new web application or tackling a challenging security problem, I am always looking for new opportunities to learn and grow as a developer.
 <!--
 **vibhatsu08/vibhatsu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
