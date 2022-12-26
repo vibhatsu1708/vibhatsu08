@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=765CEC" alt="github-streaks" width="900">
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="900"/>
