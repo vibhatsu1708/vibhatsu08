@@ -28,6 +28,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="600" border="none">
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=765CEC" alt="github-streaks" width="600">
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="600">
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="600"/>
 </br>
