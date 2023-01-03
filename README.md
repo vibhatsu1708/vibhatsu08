@@ -25,10 +25,10 @@
 </br>
 <h2>👨🏻‍💻 GitHub statistics!</h2>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="900" border="none">
+<img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="300" border="none">
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=765CEC" alt="github-streaks" width="900">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=765CEC" alt="github-streaks" width="300">
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="900"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="300"/>
 </br>
 
