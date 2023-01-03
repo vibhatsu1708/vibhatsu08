@@ -30,7 +30,7 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border="none"/>
 </br>
-<a href="https://github.com/vibhatsu08">
+<a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="600">
 </a>
 <!-- <a href="https://github.com/vibhatsu08">
