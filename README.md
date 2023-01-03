@@ -30,6 +30,7 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border="none"/>
 </br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://git.io/streak-stats)
 <!-- <a href="https://github.com/vibhatsu08">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="600"/>
 </a> -->
