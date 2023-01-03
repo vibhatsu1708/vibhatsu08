@@ -27,8 +27,11 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" alt="github-stats" width="600" border="none"/>
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vibhatsu08&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&sideNums=765CEC" alt="github-streaks" width="600" border="none"/>
-</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border/>
 </br>
-
+<a href="https://github.com/vibhatsu08">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/vibhatsu08">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" alt="Braydon's GitHub Stats" />
+</a>
