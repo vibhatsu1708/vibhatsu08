@@ -31,4 +31,5 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="600"/>
 </br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
