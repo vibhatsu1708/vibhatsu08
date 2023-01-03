@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="900"/>
 </br>
-[![KnlnKS's LeetCode stats](https://leetcode.card.workers.dev/vedant1708?cache=0)](https://github.com/vibhatsu08/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode.card.workers.dev/vedant1708?cache=0&theme=dark)](https://github.com/vibhatsu08/github-readme)
 
