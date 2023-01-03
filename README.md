@@ -33,6 +33,4 @@
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="600">
 </a>
-<!-- <a href="https://github.com/vibhatsu08">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" width="600"/>
-</a> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=vibhatsu08&theme=onedark_duo)](https://git.io/streak-stats)
