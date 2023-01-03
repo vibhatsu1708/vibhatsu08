@@ -9,6 +9,10 @@
 👋🏻 Hello there, I'm a front end developer and a content creator with a knack for building "cool" stuff with code. All my past, present and future project were/are built from the ground up, from planning, designing, till the execution, with a main idea to give a WOW factor to the viewer, and to myself. My life's ultimate goal is to keep building stuff with code, to continue to get better at it, and to be able to contribute to the world we live in.
 </p>
 </br>
+<h2>🛠️ Languages and Tools!</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+          
+</br>
 <h2>🔥 Profile views count! </h2>
 </br>
 <img src="https://profile-counter.glitch.me/{vibhatsu08}/count.svg" alt="vibhatsu08 :: Visitor's Count" />
