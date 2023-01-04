@@ -30,3 +30,5 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border="none"/>
 </br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vibhatsu08&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
