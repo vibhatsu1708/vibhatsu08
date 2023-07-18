@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Vedant Mistry
-(## A Seeker | Programmer | Shutterbug ##)
 </br>
 </br>
 ![](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
 </br>
+## A Seeker | Programmer | Shutterbug ##
 <h2>🧔🏻 About Me!</h2>
 <p align="left">
 👋🏻 Hello there, I'm a software developer with a knack for building "cool" stuff with code. All my past, present and future project were/are built from the ground up, from planning, designing, till the execution, with a main idea to give a WOW factor to the viewer, and to myself. My life's ultimate goal is to keep building stuff with code, to continue to get better at it, and to be able to contribute to the world we live in.
