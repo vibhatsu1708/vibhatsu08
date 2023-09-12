@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Vedant Mistry
-## A Seeker (Developer/Avid Reader/Shutterbug)
+## Developer | Avid Reader | Shutterbug
 </br>
 </br>
 
