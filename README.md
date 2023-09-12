@@ -1,13 +1,12 @@
 # 👨🏻‍💻 Vedant Mistry
 ## Developer | Avid Reader | Shutterbug
 </br>
-</br>
 
 ![](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
 </br>
 
 # 🧔🏻 About Me!
-<p align="left">
+<p align="center">
 👋🏻 Hello there, I'm a software developer with a knack for building "cool" stuff with code. All my past, present and future project were/are built from the ground up, from planning, designing, till the execution, with a main idea to give a WOW factor to the viewer, and to myself. My life's ultimate goal is to keep building stuff with code, to continue to get better at it, and to be able to contribute to the world we live in.</p>
 </br>
 
@@ -18,12 +17,10 @@
 </br>
 
 # 🔥 Profile views count!
-</br>
 <img src="https://profile-counter.glitch.me/{vibhatsu08}/count.svg" alt="vibhatsu08 :: Visitor's Count" />
 </br>
 
 # 👨🏻‍💻 GitHub statistics!
-</br>
 <img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" alt="github-stats" width="600" border="none"/>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border="none"/>
