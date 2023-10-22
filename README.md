@@ -15,13 +15,13 @@
 </br>
 
 # 🔥 Profile views count!
-<img src="https://profile-counter.glitch.me/{vibhatsu08}/count.svg" alt="vibhatsu08 :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{vibhatsu1708}/count.svg" alt="vibhatsu1708 :: Visitor's Count" />
 </br>
 
 # 👨🏻‍💻 GitHub statistics!
-<img src="https://github-readme-stats.vercel.app/api?username=vibhatsu08&show_icons=true&theme=vision-friendly-dark" alt="github-stats" width="600" border="none"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vibhatsu1708&show_icons=true&theme=vision-friendly-dark" alt="github-stats" width="600" border="none"/>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border="none"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu1708&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border="none"/>
 </br>
-<img src="https://streak-stats.demolab.com?user=vibhatsu08&theme=vision-friendly-dark" width="600"/>
+<img src="https://streak-stats.demolab.com?user=vibhatsu1708&theme=vision-friendly-dark" width="600"/>
 </br>
