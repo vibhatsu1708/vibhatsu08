@@ -23,5 +23,3 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhatsu1708&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="github-most-used-languages" width="600" border="none"/>
 </br>
-<img src="https://streak-stats.demolab.com?user=vibhatsu1708&theme=vision-friendly-dark" width="600"/>
-</br>
